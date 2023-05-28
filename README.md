@@ -13,3 +13,4 @@ This repository has all Java tutorial solutions of Hackerrank
       - [Problem](https://www.hackerrank.com/challenges/java-loops-ii/problem) Java Loops II [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaLoopsII.java)
       - [Problem](https://www.hackerrank.com/challenges/java-datatypes/problem) Java Datatypes [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaDataTypes.java)
       - [Problem](https://www.hackerrank.com/challenges/java-end-of-file/problem) Java End of File [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaEndOfFile.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) Java Static Initializer Block [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaStaticInitializerBlock.java)
