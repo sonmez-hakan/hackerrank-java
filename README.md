@@ -1,6 +1,8 @@
 # HackerrankJava
 
-This repository has all Java tutorial solutions of Hackerrank
+This repository is Solutions of the [Hackerrank Python Questions](https://www.hackerrank.com/domains/java)
+
+Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 
 - ## Java
     - Introduction
