@@ -16,3 +16,4 @@ This repository has all Java tutorial solutions of Hackerrank
       - [Problem](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) Java Static Initializer Block [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaStaticInitializerBlock.java)
       - [Problem](https://www.hackerrank.com/challenges/java-int-to-string/problem) Java Int to String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaIntToString.java)
       - [Problem](https://www.hackerrank.com/challenges/java-date-and-time/problem) Java Date And Time [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaDateAndTime.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem) Java Currency Formatter [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaCurrencyFormatter.java)
