@@ -18,4 +18,5 @@ This repository has all Java tutorial solutions of Hackerrank
       - [Problem](https://www.hackerrank.com/challenges/java-date-and-time/problem) Java Date And Time [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaDateAndTime.java)
       - [Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem) Java Currency Formatter [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaCurrencyFormatter.java)
       - [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) Java Strings Introduction [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaStringsIntroduction.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-substring/problem) Java Substring [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaSubstring.java)
       
