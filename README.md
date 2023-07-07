@@ -20,10 +20,10 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-date-and-time/problem) Java Date And Time [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaDateAndTime.java)
       - [Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem) Java Currency Formatter [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaCurrencyFormatter.java)
     - Strings
-      - [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) Java Strings Introduction [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaStringsIntroduction.java)
-      - [Problem](https://www.hackerrank.com/challenges/java-substring/problem) Java Substring [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaSubstring.java)
-      - [Problem](https://www.hackerrank.com/challenges/java-string-compare/problem) Java Substring Comparisons [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaSubstringCompare.java)
-      - [Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem) Java String Reverse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaSubstringReverse.java)
-      - [Problem](https://www.hackerrank.com/challenges/java-anagrams/problem) Java Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaAnagrams.java)
-      - [Problem](https://www.hackerrank.com/challenges/java-string-tokens/problem) Java String Tokens [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaStringTokens.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) Java Strings Introduction [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaStringsIntroduction.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-substring/problem) Java Substring [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaSubstring.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-string-compare/problem) Java Substring Comparisons [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaSubstringCompare.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem) Java String Reverse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaSubstringReverse.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-anagrams/problem) Java Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaAnagrams.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-string-tokens/problem) Java String Tokens [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaStringTokens.java)
       
