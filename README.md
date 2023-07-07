@@ -25,4 +25,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-string-compare/problem) Java Substring Comparisons [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaSubstringCompare.java)
       - [Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem) Java String Reverse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaSubstringReverse.java)
       - [Problem](https://www.hackerrank.com/challenges/java-anagrams/problem) Java Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaAnagrams.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-string-tokens/problem) Java String Tokens [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Introduction/JavaStringTokens.java)
       
