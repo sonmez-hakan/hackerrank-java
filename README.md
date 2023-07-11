@@ -31,4 +31,6 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/duplicate-words/problem) Java Regex 2 - Duplicate Words [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/DuplicateWords.java)
       - [Problem](https://www.hackerrank.com/challenges/tag-content-extractor/problem) Tag Content Extractor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/TagContentExtractor.java)
       - [Problem](https://www.hackerrank.com/challenges/valid-username-checker/problem) Valid Username Regular Expression [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/ValidUsernameRegularExpression.java)
+    - Big Number
+      - [Problem](https://www.hackerrank.com/challenges/valid-username-checker/problem) Java BigDecimal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaBigDecimal.java)
       
