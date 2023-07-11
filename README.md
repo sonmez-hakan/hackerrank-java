@@ -32,7 +32,8 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/tag-content-extractor/problem) Tag Content Extractor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/TagContentExtractor.java)
       - [Problem](https://www.hackerrank.com/challenges/valid-username-checker/problem) Valid Username Regular Expression [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/ValidUsernameRegularExpression.java)
     - Big Number
-      - [Problem](https://www.hackerrank.com/challenges/valid-username-checker/problem) Java BigDecimal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaBigDecimal.java)
-      - [Problem](https://www.hackerrank.com/challenges/java-primality-test/problem) Java Primality Test [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaPrimalityTest.java)
-      - [Problem](https://www.hackerrank.com/challenges/java-biginteger/problem) Java BigInteger [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaBigInteger.java)
-      
+      - [Problem](https://www.hackerrank.com/challenges/valid-username-checker/problem) Java BigDecimal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/BigNumber/JavaBigDecimal.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-primality-test/problem) Java Primality Test [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/BigNumber/JavaPrimalityTest.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-biginteger/problem) Java BigInteger [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/BigNumber/JavaBigInteger.java)
+    - Data Structure
+      - [Problem](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) Java 1D Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/Java1DArray.java)
