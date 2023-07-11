@@ -38,3 +38,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
     - Data Structure
       - [Problem](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) Java 1D Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/Java1DArray.java)
       - [Problem](https://www.hackerrank.com/challenges/java-2d-array/problem) Java 2D Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/Java2DArray.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-negative-subarray/problem) Java Subarray [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaSubarray.java)
