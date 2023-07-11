@@ -29,4 +29,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) Pattern Syntax Checker [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/PatternSyntaxChecker.java)
       - [Problem](https://www.hackerrank.com/challenges/java-regex/problem) Java Regex [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaRegex.java)
       - [Problem](https://www.hackerrank.com/challenges/duplicate-words/problem) Java Regex 2 - Duplicate Words [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/DuplicateWords.java)
+      - [Problem](https://www.hackerrank.com/challenges/tag-content-extractor/problem) Tag Content Extractor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/TagContentExtractor.java)
       
