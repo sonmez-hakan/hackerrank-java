@@ -34,4 +34,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
     - Big Number
       - [Problem](https://www.hackerrank.com/challenges/valid-username-checker/problem) Java BigDecimal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaBigDecimal.java)
       - [Problem](https://www.hackerrank.com/challenges/java-primality-test/problem) Java Primality Test [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaPrimalityTest.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-biginteger/problem) Java BigInteger [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Strings/JavaBigInteger.java)
       
