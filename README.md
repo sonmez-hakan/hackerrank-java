@@ -48,3 +48,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-generics/problem) Java Generics [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaGenerics.java)
       - [Problem](https://www.hackerrank.com/challenges/java-comparator/problem) Java Comparator [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaComparator.java)
       - [Problem](https://www.hackerrank.com/challenges/java-dequeue/problem) Java Dequeue [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaDequeue.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-bitset/problem) Java BitSet [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaBitSet.java)
