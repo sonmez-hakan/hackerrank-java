@@ -44,3 +44,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-list/problem) Java List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaList.java)
       - [Problem](https://www.hackerrank.com/challenges/phone-book/problem) Java Map [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaMap.java)
       - [Problem](https://www.hackerrank.com/challenges/java-stack/problem) Java Stack [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaStack.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-hashset/problem) Java Stack [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaHashset.java)
