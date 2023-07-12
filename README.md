@@ -40,3 +40,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-2d-array/problem) Java 2D Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/Java2DArray.java)
       - [Problem](https://www.hackerrank.com/challenges/java-negative-subarray/problem) Java Subarray [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaSubarray.java)
       - [Problem](https://www.hackerrank.com/challenges/java-arraylist/problem) Java Arraylist [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaArraylist.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-1d-array/problem) Java 1D Array (Part 2) [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/Java1DArrayPart2.java)
