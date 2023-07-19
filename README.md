@@ -52,3 +52,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-priority-queue/problem) Java Priority Queue [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaPriorityQueue.java)
     - Object Oriented Programming
       - [Problem](https://www.hackerrank.com/challenges/java-inheritance-1/problem) Java Inheritance I [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaInheritanceI.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-inheritance-2/problem) Java Inheritance II [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaInheritanceII.java)
