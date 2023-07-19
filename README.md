@@ -54,3 +54,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-inheritance-1/problem) Java Inheritance I [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaInheritanceI.java)
       - [Problem](https://www.hackerrank.com/challenges/java-inheritance-2/problem) Java Inheritance II [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaInheritanceII.java)
       - [Problem](https://www.hackerrank.com/challenges/java-abstract-class/problem) Java Abstract Class [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaAbstractClass.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-abstract-class/problem) Java Interface [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaInterface.java)
