@@ -50,3 +50,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-dequeue/problem) Java Dequeue [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaDequeue.java)
       - [Problem](https://www.hackerrank.com/challenges/java-bitset/problem) Java BitSet [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaBitSet.java)
       - [Problem](https://www.hackerrank.com/challenges/java-priority-queue/problem) Java Priority Queue [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/DataStructure/JavaPriorityQueue.java)
+    - Object Oriented Programming
+      - [Problem](https://www.hackerrank.com/challenges/java-inheritance-1/problem) Java Inheritance I [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaInheritanceI.java)
