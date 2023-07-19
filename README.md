@@ -60,4 +60,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) Java Instanceof keyword [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaInstanceofKeyword.java)
       - [Problem](https://www.hackerrank.com/challenges/java-iterator/problem) Java Iterator [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ObjectOrientedProgramming/JavaIterator.java)
     - Exception Handling
-      - [Problem](https://www.hackerrank.com/challenges/java-iterator/problem) Java Exception Handling (Try-catch) [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ExceptionHandling/JavaExceptionHandlingTryCatch.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) Java Exception Handling (Try-catch) [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ExceptionHandling/JavaExceptionHandlingTryCatch.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-exception-handling/problem) Java Exception Handling [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ExceptionHandling/JavaExceptionHandling.java)
