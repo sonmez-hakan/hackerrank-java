@@ -67,3 +67,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) Java Reflection - Attributes [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/JavaReflectionAttributes.java)
       - [Problem](https://www.hackerrank.com/challenges/can-you-access/problem) Can You Access? [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/CanYouAccess.java)
       - [Problem](https://www.hackerrank.com/challenges/prime-checker/problem) Prime Checker [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/PrimeChecker.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-factory/problem) Java Factory Pattern [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/JavaFactoryPattern.java)
