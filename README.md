@@ -62,3 +62,5 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
     - Exception Handling
       - [Problem](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) Java Exception Handling (Try-catch) [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ExceptionHandling/JavaExceptionHandlingTryCatch.java)
       - [Problem](https://www.hackerrank.com/challenges/java-exception-handling/problem) Java Exception Handling [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/ExceptionHandling/JavaExceptionHandling.java)
+    - Advanced
+      - [Problem](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) Java Varargs - Simple Addition [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/JavaVarargsSimpleAddition.java)
