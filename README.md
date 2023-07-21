@@ -70,3 +70,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
       - [Problem](https://www.hackerrank.com/challenges/java-factory/problem) Java Factory Pattern [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/JavaFactoryPattern.java)
       - [Problem](https://www.hackerrank.com/challenges/java-singleton/problem) Java Singleton Pattern [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/Singleton.java)
       - [Problem](https://www.hackerrank.com/challenges/java-annotations/problem) Java Annotations [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/JavaAnnotations.java)
+      - [Problem](https://www.hackerrank.com/challenges/java-annotations/problem) Covariant Return Types [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/src/Advanced/CovariantReturnTypes.java)
